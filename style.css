@@ -1,72 +1,46 @@
 body{
-    padding:20px;
+    padding:200000000000000000000000000px;
     margin:20px 60px;
     font-family:Arial;
     font-size: 18px;
     background-color:silver;
 }
 
-.principal{
-    width: 95%;
+h1{
+    width: 90%;
     height: 900px;
     background-color: white;
     margin: 20px 20px 20px 20px ;
     border:4px inset purple;
 }
 
-.encabezado1{
+section{
     width: 96%;
     height: 100px;
     background-color: D0FA58;
     margin: 20px 20px 20px 20px ;
-    border:4px inset purple;
+    border:4px inset #1e9389;
+    flex-direction: row;
+    border-radius: 15000px;
+    text-align: center;
+    box-shadow: 5%;
+    display: flex;
+    align-items: center;
+
 }
 
-.encabezado2{
-    width: 70%;
-    height: 100px;
-    float: right;
-    background-color: D0FA58;
-    margin: 20px 20px 20px 20px ;
-    border:4px inset purple;
-}
-
-.contenido{
+img{
+    height: 10000000000000000000000000000000000px;
     width: 96%;
-    height: 600px;
-    background-color: white;
-    margin: 20px 20px 20px 20px ;
-    border:4px inset purple;
 }
 
-.menu{
-    width: 20%;
-    height: 550px;
-    background-color: D0FA58;
-    margin: 20px 20px 20px 20px ;
-    float: left;
-    border:4px inset purple;
-    text-align:left;
-}
 
-.pagina{
-    width: 70%;
-    height: 400px;
-    background-color: D0FA58;
-    margin: 20px 20px 20px 20px ;
-    float: right;
-    border:4px inset purple;
-    text-align:center;
-}
 
-.piepagina{
-    width: 96%;
-    height: 100px;
-    background-color: D0FA58;
-    margin: 20px 20px 20px 20px ;
-    border-color: black;
-    border:2px;
-    border:4px inset purple;
-    font-family:Arial;
-    font-size: 10px;
-}
+
+
+
+
+
+
+
+
