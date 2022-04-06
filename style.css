@@ -7,7 +7,7 @@ body{
 }
 
 .principal{
-    width: 95%;
+    width: 90%;
     height: 900px;
     background-color: white;
     margin: 20px 20px 20px 20px ;
@@ -41,7 +41,7 @@ body{
 
 .menu{
     width: 20%;
-    height: 550px;
+    height: 100050px;
     background-color: D0FA58;
     margin: 20px 20px 20px 20px ;
     float: left;
@@ -51,8 +51,8 @@ body{
 
 .pagina{
     width: 70%;
-    height: 400px;
-    background-color: D0FA58;
+    height: 400000px;
+    background-color: #D0FA58;
     margin: 20px 20px 20px 20px ;
     float: right;
     border:4px inset purple;
@@ -61,8 +61,8 @@ body{
 
 .piepagina{
     width: 96%;
-    height: 100px;
-    background-color: D0FA58;
+    height: 1000000px;
+    background-color: #D0FA58;
     margin: 20px 20px 20px 20px ;
     border-color: black;
     border:2px;
@@ -70,3 +70,16 @@ body{
     font-family:Arial;
     font-size: 10px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
